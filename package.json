@@ -1,0 +1,19 @@
+{
+  "name": "@showa-yojyo/pubpkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/showa-yojyo/pubpkg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/showa-yojyo/pubpkg/issues"
+  },
+  "homepage": "https://github.com/showa-yojyo/pubpkg#readme"
+}
